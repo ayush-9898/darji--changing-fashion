@@ -1,0 +1,28 @@
+body{
+    background-image: url("cart_logo.jpg");
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x: center;
+    background-position-y:80px;
+
+}
+.center{
+    margin-left: 5%;
+    margin-top: 15%;
+}
+.center h2{
+    font-size:43px;
+}
+.center p{
+    font-size: 17px;
+    font-style:italic;
+    text-decoration-line: underline;
+}
+button{
+    background-color:rgb(4, 153, 76);
+    border-radius: 4px;
+    margin-left: 5%;
+    margin-top: 3%;
+    font-size: large;
+}
